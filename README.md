@@ -23,7 +23,7 @@
   :man_technologist: About Me :  
 </h2>
   
-- Data Analyst at Linkedin
+- Sr. Data Engineer
 - Data Engineering MBA
 - Portuguese and English
 - Brazilian  
