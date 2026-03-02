@@ -26,7 +26,7 @@
 - Sr. Data Engineer
 - Data Engineering MBA
 - Portuguese and English
-- Brazilian  
+- Living and working in Saudi Arabia
   
 
   
